@@ -1,0 +1,3 @@
+C:/My Study/Programming2/ass2_sol/code/cmake-build-debug/CMakeFiles/code.dir
+C:/My Study/Programming2/ass2_sol/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/My Study/Programming2/ass2_sol/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
